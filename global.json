@@ -1,30 +1,30 @@
 {
   "games": [
     {
-      "id": "utr",
-      "title": "UT Reborn",
+      "id": "dom",
+      "title": "Domain of Magica",
       "description": "Brought back after three years.",
-      "version": "v4.v2",
+      "version": "v2.8.9",
       "urls": {
-        "swf": "https://raw.githubusercontent.com/username/flash-games/main/fancy-pants.swf",
-        "air": null,
+        "swf": null,
+        "air": "https://github.com/Domain-of-Magica/domain-of-magica.github.io/raw/main/Main.zip",
         "playerCount": null
       },
       "banner": "/api/placeholder/400/300",
       "altBanner": "/api/placeholder/400/300"
     },
     {
-      "id": "portal-flash",
-      "title": "Portal: The Flash Version",
+      "id": "cos",
+      "title": "Cosmic Realms",
       "description": "A 2D adaptation of the popular Portal game, featuring mind-bending puzzle mechanics.",
       "version": "1.0",
       "urls": {
-        "swf": "https://raw.githubusercontent.com/username/flash-games/main/portal-flash.swf",
-        "air": "https://raw.githubusercontent.com/username/flash-games/main/portal-flash.air",
+        "swf": null,
+        "air": "https://cdn.discordapp.com/attachments/861439773441130497/1252045930568351794/CosmicLauncher.exe?ex=6784fc63&is=6783aae3&hm=45fa4e0f28dedc1bae62e2da06371a54bc9748911a2974d87ffe1688eceba57d&",
         "playerCount": null
       },
-      "banner": "/api/placeholder/400/300",
-      "altBanner": "/api/placeholder/400/300"
+      "banner": "https://cdn.discordapp.com/icons/523307056518660116/6fc7b984ad1103c9eb298b37a9836700.webp?size=96",
+      "altBanner": "https://cdn.discordapp.com/icons/523307056518660116/6fc7b984ad1103c9eb298b37a9836700.webp?size=96"
     },
     {
       "id": "line-rider",
