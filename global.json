@@ -1,6 +1,19 @@
 {
   "games": [
     {
+      "id": "val",
+      "title": "Valor",
+      "description": "Brought back after three years.",
+      "version": "v6.5.0",
+      "urls": {
+        "swf": null,
+        "air": "https://api.valorserver.com/api/launcher",
+        "playerCount": null
+      },
+      "banner": "https://cdn.discordapp.com/icons/635247762845335565/b4ea190306abfa27c628c1755c6b571b.webp?size=1024&format=webp",
+      "altBanner": "https://cdn.discordapp.com/banners/635247762845335565/bd31f76ee7f05c5045967b1c3edadbc6.webp?size=1024&format=webp&width=1024&height=0"
+    },
+    {
       "id": "dom",
       "title": "Domain of Magica",
       "description": "Brought back after three years.",
@@ -10,8 +23,8 @@
         "air": "https://github.com/Domain-of-Magica/domain-of-magica.github.io/raw/main/Main.zip",
         "playerCount": null
       },
-      "banner": "/api/placeholder/400/300",
-      "altBanner": "/api/placeholder/400/300"
+      "banner": "https://cdn.discordapp.com/icons/537679687913308191/a_830134a8a7fe45ed0d7171da515b1124.gif?size=1024",
+      "altBanner": "https://cdn.discordapp.com/banners/537679687913308191/976ba89c4c58e30bff55f61e2854537d.webp?size=1024&format=webp&width=1024&height=0"
     },
     {
       "id": "cos",
