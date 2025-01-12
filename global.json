@@ -3,8 +3,8 @@
     {
       "id": "val",
       "title": "Valor",
-      "description": "Brought back after three years.",
-      "version": "v6.5.0",
+      "description": "A reboot of the Valor owned by Omniraptyr, currently owned by Arcanuo",
+      "version": "6.5.0",
       "urls": {
         "swf": null,
         "air": "https://api.valorserver.com/api/launcher",
@@ -16,8 +16,8 @@
     {
       "id": "dom",
       "title": "Domain of Magica",
-      "description": "Brought back after three years.",
-      "version": "v2.8.9",
+      "description": "Raids, Tons of custom content, Crafting, Parties, Group content, Tiered and chase items",
+      "version": "2.8.9",
       "urls": {
         "swf": null,
         "air": "https://github.com/Domain-of-Magica/domain-of-magica.github.io/raw/main/Main.zip",
@@ -40,16 +40,16 @@
       "altBanner": "https://cdn.discordapp.com/icons/523307056518660116/6fc7b984ad1103c9eb298b37a9836700.webp?size=96"
     },
     {
-      "id": "line-rider",
-      "title": "Line Rider",
+      "id": "fp",
+      "title": "Forgotten Pantheon",
       "description": "Draw lines and watch a sledder ride them in this creative physics playground.",
-      "version": "Beta",
+      "version": "0.2.12",
       "urls": {
-        "swf": "https://raw.githubusercontent.com/username/flash-games/main/line-rider.swf",
-        "air": null,
-        "playerCount": "https://example.com/playercount/line-rider"
+        "swf": null,
+        "air": "https://cdn.discordapp.com/attachments/1321005665401176115/1327792614896046170/Client.zip?ex=6785037c&is=6783b1fc&hm=ad5d819e7818126ed7117a6760bb1b9775296e421a75cba995a6b6318bb18bfd&",
+        "playerCount": null
       },
-      "banner": "/api/placeholder/400/300",
+      "banner": "https://cdn.discordapp.com/icons/653724099985539082/a_dbda3eaa9d1f780f0485df7d772162ce.gif?size=1024",
       "altBanner": null
     }
   ]
