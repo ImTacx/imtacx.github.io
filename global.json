@@ -1,19 +1,6 @@
 {
   "games": [
     {
-      "id": "val",
-      "title": "Valor",
-      "description": "A reboot of the Valor owned by Omniraptyr, currently owned by Arcanuo",
-      "version": "6.5.0",
-      "urls": {
-        "swf": null,
-        "air": "https://api.valorserver.com/api/launcher",
-        "playerCount": null
-      },
-      "banner": "https://cdn.discordapp.com/icons/635247762845335565/b4ea190306abfa27c628c1755c6b571b.webp?size=1024&format=webp",
-      "altBanner": "https://cdn.discordapp.com/banners/635247762845335565/bd31f76ee7f05c5045967b1c3edadbc6.webp?size=1024&format=webp&width=1024&height=0"
-    },
-    {
       "id": "dom",
       "title": "Domain of Magica",
       "description": "Raids, Tons of custom content, Crafting, Parties, Group content, Tiered and chase items",
